@@ -11,7 +11,5 @@ You can login, register etc. That's all you can do right now.
 I'll keep working on it
 
 
-*jwtSecret = "secret"
-
 *function db()
   A normal setup to connect to MongoDB
